@@ -1,0 +1,31 @@
+[33mcommit c97f47b47906eb6c209b179a485678d0a48c8b3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/sync[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m
+Author: yunhyoungJo <silentkaljo@gmail.com>
+Date:   Thu Jul 31 22:45:20 2025 +0900
+
+    스레드 제어와 생명주기 메모리 가시성
+
+[33mcommit 022e08ff36ee46806f554560910a4870dfe2260d[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 43b62b2 7147693
+Author: yunhyoungJo <silentkaljo@gmail.com>
+Date:   Wed Jul 30 14:35:01 2025 +0900
+
+    Merge branch 'dev'
+
+[33mcommit 71476936964b92bd1ed80105bdb4f43414d1dec7[m[33m ([m[1;31morigin/dev[m[33m)[m
+Merge: 43b62b2 0f5ea1c
+Author: yunhyoungJo <silentkaljo@gmail.com>
+Date:   Wed Jul 30 14:33:42 2025 +0900
+
+    Merge branch 'feature/test' into dev
+
+[33mcommit 0f5ea1cc5743e2168d29c9f50e53b8a1f72a1702[m[33m ([m[1;31morigin/feature/test[m[33m, [m[1;32mfeature/test[m[33m)[m
+Author: yunhyoungJo <silentkaljo@gmail.com>
+Date:   Wed Jul 30 14:31:29 2025 +0900
+
+    스레드 생성과 실행
+
+[33mcommit 43b62b2c4691ec3e38109d78ed67646d99aa9146[m
+Author: yunhyoungJo <silentkaljo@gmail.com>
+Date:   Tue Jul 29 20:49:00 2025 +0900
+
+    기본설정
